@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "arkanium",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Arkanium Launcher",
+  "description": "Launcher officiel d'arkanium",
+  "author": "Maxime et Daniel Scalzi ",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://arkanium.fun",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://arkanium.fun/ticket"
   },
   "private": true,
   "main": "index.js",

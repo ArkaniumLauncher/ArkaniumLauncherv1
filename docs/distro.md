@@ -9,7 +9,7 @@ The distribution index is written in JSON. The general format of the index is as
     "version": "1.0.0",
     "discord": {
         "clientId": "12334567890123456789",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Arkanium",
         "smallImageKey": "seal-circle"
     },
     "rss": "https://westeroscraft.com/articles/index.rss",
@@ -21,7 +21,7 @@ The distribution index is written in JSON. The general format of the index is as
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
             "version": "0.0.1",
             "address": "mc.westeroscraft.com:1337",
-            "minecraftVersion": "1.11.2",
+            "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "Example",
                 "largeImageText": "WesterosCraft Example Server",
@@ -45,7 +45,7 @@ The distribution index is written in JSON. The general format of the index is as
     "version": "1.0.0",
     "discord": {
         "clientId": "12334567890123456789",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Arkanium",
         "smallImageKey": "seal-circle"
     },
     "rss": "https://westeroscraft.com/articles/index.rss",
@@ -82,7 +82,7 @@ A URL to a RSS feed. Used for loading news.
     "id": "Example_Server",
     "name": "WesterosCraft Example Client",
     "description": "Example WesterosCraft server. Connect for fun!",
-    "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+    "icon": "https://cdn.discordapp.com/attachments/696286242597503017/774550356889042964/g.png",
     "version": "0.0.1",
     "address": "mc.westeroscraft.com:1337",
     "minecraftVersion": "1.11.2",

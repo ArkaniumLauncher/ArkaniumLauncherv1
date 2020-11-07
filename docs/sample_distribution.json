@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "discord": {
         "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Arkanium",
         "smallImageKey": "seal-circle"
     },
     "java": {
@@ -11,16 +11,16 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
+            "id": "Arkanium-1.12.2",
+            "name": "Arkanium",
             "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "icon": "https://cdn.discordapp.com/attachments/696286242597503017/774550356889042964/g.png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "address": "arkanium.fun",
+            "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
+                "largeImageText": "Arkanium",
                 "largeImageKey": "server-prod"
             },
             "mainServer": true,
